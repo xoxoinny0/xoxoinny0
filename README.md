@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://www.notion.so/ce21f5c4f27f43c08916eb8a8450c124?v=4c8cfef7d8ea490c9100abb3d27ba7d7"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <!-- <a href="https://www.notion.so/ce21f5c4f27f43c08916eb8a8450c124?v=4c8cfef7d8ea490c9100abb3d27ba7d7"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
   <a href="mailto:xoxoinny0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xoxoinny0@gmail.com"/></a>
 </p>
